@@ -4,3 +4,5 @@ Published projects:
 - https://dialogs.yandex.ru/store/skills/0d70e3e0-povtoryushka-dyadya-hr
 - https://dialogs.yandex.ru/store/skills/170ca800-ugadaj-dlinu
 - https://dialogs.yandex.ru/store/skills/ed640e88-byki-korovy-i-slova
+
+- https://t.me/inst_story_download_bot
