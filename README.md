@@ -6,3 +6,6 @@ Published projects:
 - https://dialogs.yandex.ru/store/skills/ed640e88-byki-korovy-i-slova
 
 - https://t.me/inst_story_download_bot
+
+Finished projects:
+- https://github.com/DylanMrr/SeaWar
