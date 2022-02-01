@@ -10,6 +10,7 @@ Published projects:
 
 Finished projects:
 - https://github.com/DylanMrr/YoutubeOnReact
+- https://github.com/DylanMrr/HarryPotter
 - https://github.com/DylanMrr/SeaWar
 - https://github.com/DylanMrr/Minesweeper
 - https://github.com/DylanMrr/GoCache
