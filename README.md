@@ -1,4 +1,5 @@
 Published projects:
+- https://t.me/mem_creator_bot
 - https://dylanmrr.github.io/YoutubeOnReact/
 - https://dialogs.yandex.ru/store/skills/b7059b33-igra-danetki
 - https://dialogs.yandex.ru/store/skills/9ce76a07-popolni-slovarnyj-zapas
